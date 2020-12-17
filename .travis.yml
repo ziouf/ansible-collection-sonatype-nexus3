@@ -1,0 +1,7 @@
+
+notifications:
+  webhooks: https://galaxy.ansible.com/api/v1/notifications/
+
+# deploy:
+#   provider: script
+#   script: 
